@@ -1,10 +1,12 @@
 {
   "name": "advent-of-code",
-  "version": "2023.1.2",
+  "version": "2023.2.2",
   "description": "Trying to solve some elvish problems...",
   "scripts": {
     "day1-part1": "ts-node src/2023/1/1-1.ts",
-    "day1-part2": "ts-node src/2023/1/1-2.ts"
+    "day1-part2": "ts-node src/2023/1/1-2.ts",
+    "day2-part1": "ts-node src/2023/2/2-1.ts",
+    "day2-part2": "ts-node src/2023/2/2-2.ts"
   },
   "repository": {
     "type": "git",
